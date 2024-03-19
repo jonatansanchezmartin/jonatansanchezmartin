@@ -1,16 +1,18 @@
-### Hi there 👋
+![Jonatan desarrollador web](jonatanSM.jpg)
 
-<!--
-**jonatansanchezmartin/jonatansanchezmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Bienvenid@ a mi página!
 
-Here are some ideas to get you started:
+## Un poco sobre mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Trabajo como web developer freelance. 
+- 💬 Pregúntame sobre PHP y Wordpress.
+- 📫 Contáctame en: sanchez.martin.jonatan@gmail.com
+- 🤠 Fun fact: profesionalmente he pasado de vender software a crearlo.
+
+## Mis tecnologías:
+
+![PHP](php.png)  ![HTML](html.png)  ![CSS](css.png)  ![Bootstrap](bootstrap.png)
+
+
+
+### Visita mi portfolio aquí: [jonatansanchez.org](https://jonatansanchez.org/)

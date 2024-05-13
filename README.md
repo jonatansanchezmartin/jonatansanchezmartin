@@ -11,7 +11,7 @@
 
 ## Mis tecnologías:
 
-![PHP](php.png)  ![HTML](html.png)  ![CSS](css.png)  ![Bootstrap](bootstrap.png)
+![PHP](php.png)  ![HTML](html.png)  ![CSS](css.png)  ![JS](js.png)  ![Bootstrap](bootstrap.png)
 
 
 

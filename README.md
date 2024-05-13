@@ -11,12 +11,19 @@
 
 ## Mis tecnologías:
 
- ![PHP](php.png) PHP 
- ![JS](js.png) JS
- ![HTML](html.png) HTML
- ![CSS](css.png) CSS
- ![Bootstrap](bootstrap.png) Bootstrap
- ![Bootstrap](vue.png) Vue
+ ![PHP](php.png)
+ ![JS](js.png)
+ ![HTML](html.png)
+ ![CSS](css.png) 
+ ![Bootstrap](bootstrap.png) 
+ ![Bootstrap](vue.png)
+
+- PHP.
+- Javascript.
+- HTML.
+- CSS.
+- Bootstrap.
+- Vue.
 
 
 ### Visita mi portfolio aquí: [jonatansanchez.org](https://jonatansanchez.org/)

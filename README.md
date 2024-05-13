@@ -16,7 +16,7 @@
 - ![HTML](html.png) HTML
 - ![CSS](css.png) CSS
 - ![Bootstrap](bootstrap.png) Bootstrap
-- ![Bootstrap](file_type_vue_icon_130078.png) Vue.
+- ![Bootstrap](vue.png) Vue.
 
 
 ### Visita mi portfolio aquí: [jonatansanchez.org](https://jonatansanchez.org/)
